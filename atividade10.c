@@ -3,6 +3,8 @@
 
 #define MAX 50
 
+// Faça um programa que receba uma palavra e a imprima de tras-para-frente.
+
 int main () {
     char palavra[MAX];
 
