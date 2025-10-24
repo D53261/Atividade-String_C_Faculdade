@@ -3,6 +3,8 @@
 
 #define MAX 50
 
+// Fac ̧a um programa que entao leia uma string e a imprima.
+
 int main() {
     char palavra[MAX];
 
