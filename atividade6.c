@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//Ler nome, sexo e idade. Se sexo for feminino e idade menor que 25, imprime o nome da pessoa e a palavra “ACEITA”, caso contrario imprimir “N  ́ AO ACEITA”.
+//Ler nome, sexo e idade. Se sexo for feminino e idade menor que 25, imprime o nome da pessoa e a palavra “ACEITA”, caso contrario imprimir “NÃO ACEITA”.
 int main (){
     int idade;
     char genero;
